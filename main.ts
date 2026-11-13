@@ -12,7 +12,7 @@ basic.forever(function () {
     }
 })
 basic.forever(function () {
-    if (input.buttonIsPressed(Button.A)) {
+    if (input.buttonIsPressed(Button.B)) {
         basic.showLeds(`
             # . # . #
             # . # . #
