@@ -10,10 +10,10 @@
         # # # # # 
         . . . . . 
         # # # # #
-        `</field></block></statement><statement name="ELSE"><block type="device_clear_display" id="KSp%elB@woUf(M{*_ZT^"></block></statement></block></statement></block><block type="device_forever" id="G+$2SX{SELqvOFOgg)[g" x="923" y="175"><statement name="HANDLER"><block type="controls_if" id="10onA.uG:[hAppk^9hz+"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id=":`MW^6AiHGlgh1/W~EyA"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="@?#gE$]n*q?1O%W{nw+B"><field name="NAME">Button.B</field></block></value><statement name="DO0"><block type="device_show_leds" id="4rC?3;-Kr*#fm.?o/|c]"><field name="LEDS">`
+        `</field></block></statement><statement name="ELSE"><block type="device_clear_display" id="KSp%elB@woUf(M{*_ZT^"></block></statement></block></statement></block><block type="device_forever" id="j+DX-Mb5!oSLvGhX)Y`q" x="776" y="174"><statement name="HANDLER"><block type="controls_if" id="QgIKEeB:;M%.fCdgH:9f"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="d}ldnT75OBskL,KXz_vl"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="KJHK;Qvn:u`qqW9zmQz*"><field name="NAME">Button.A</field></block></value><statement name="DO0"><block type="device_show_leds" id="5%m82U_@LW+u}kY^0A_("><field name="LEDS">`
         # . # . # 
         # . # . # 
         # . # . # 
         # . # . # 
         # . # . #
-        `</field></block></statement><statement name="ELSE"><block type="device_clear_display" id="]%[bkC0TMh;u=*RZt4^."></block></statement></block></statement></block></xml>
+        `</field></block></statement><statement name="ELSE"><block type="device_clear_display" id="{nL7ZUf;.(7cXFxY?iMH"></block></statement></block></statement></block></xml>
